@@ -33,8 +33,11 @@ This repository is for the project for the Academic Grand Challenge on Climate C
    - Data Preprocessor
    - AI Based Predictor
    - Application
+
 ## Data Preprocessor
  - This module converts csv data of into heatmaps using a combination of Geocoding and Plotting.
+![Preprocessing](./Images/preprocessing.png)
+
 ## AI Based Predictor
  - We use an auto-regressive Image-to-Image model to generate heatmaps for future predictions.
 ## Application
