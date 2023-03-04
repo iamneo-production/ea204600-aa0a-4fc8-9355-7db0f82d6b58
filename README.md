@@ -44,6 +44,10 @@ This repository is for the project for the Academic Grand Challenge on Climate C
 
 ## Application
  - This section is under Work in Progress
+ 
+## Architecture Diagram
+![GAC@2x](https://user-images.githubusercontent.com/50861092/222914642-f93b7d9f-a6cb-4452-a9b9-9ebc1165d1d5.png)
+
 ## Submissions
 * ## Presentation Link: [Link]()
 * ## Figma Link: [Link]()
