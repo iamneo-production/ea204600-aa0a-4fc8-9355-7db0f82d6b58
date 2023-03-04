@@ -7,9 +7,9 @@ This repository is for the project for the Academic Grand Challenge on Climate C
 - [About the Problem](#about-the-problem)
 - [Our Understanding](#our-understanding)
 - [Prototype](#prototype)
-    - [AQI Prediction](#aqi-prediction)
-    - [Heatwave Prediction](#heatwave-prediction)
-    - [Mobile Application](#mobile-application)
+    - [Data Preprocessor](#data-preprocessor)
+    - [AI Based Predictor](#ai-based-predictor)
+    - [Application](#application)
 - [Flow Diagram](#flow-diagram)
 - [Submissions](#submissions)
 - [Authors](#authors)
@@ -32,6 +32,29 @@ This repository is for the project for the Academic Grand Challenge on Climate C
 
    - AQI Prediction
    - Heatwave Prediction
-   - Mobile Application
+   - Web Application
+
+## Submissions
+* ## Presentation Link: [Link]()
+* ## Figma Link: [Link]()
+
+
+## Authors
+
+#### Neeraj J Manurkar
+* [GitHub](https://github.com/Neerajjr11)
+* [LinkedIn](https://www.linkedin.com/in/neeraj-j-manurkar-64372b212/)
+
+#### Pratik Garai
+* [GitHub](https://github.com/iaraGkitarP)
+* [LinkedIn](https://www.linkedin.com/in/pratik-garai-bab1a4191/)
+
+#### Aravind P
+* [GitHub](https://github.com/ARAVIND1828)
+* [LinkedIn](https://www.linkedin.com/in/aravind-p-92a5061b8/)
+
+#### Aneesh Aparajit G
+* [GitHub](https://github.com/aneeshaparajit)
+* [LinkedIn](https://www.linkedin.com/in/aneesh-aparajit/)
 
 https://sonarcloud.io/summary/overall?id=examly-test_ea204600-aa0a-4fc8-9355-7db0f82d6b58
