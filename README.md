@@ -10,7 +10,7 @@ This repository is for the project for the Academic Grand Challenge on Climate C
     - [Data Preprocessor](#data-preprocessor)
     - [AI Based Predictor](#ai-based-predictor)
     - [Application](#application)
-- [Flow Diagram](#flow-diagram)
+- [Architecture Diagram](#architecture-diagram)
 - [Submissions](#submissions)
 - [Authors](#authors)
 
