@@ -50,7 +50,7 @@ This repository is for the project for the Academic Grand Challenge on Climate C
 
 ## Submissions
 * ## Presentation Link: [Link]()
-* ## Figma Link: [Link]()
+* ## Figma Link: [Link](https://www.figma.com/file/QpFcYibSUP9y78nOjzLIJW/Map-Maker)
 
 
 ## Authors
