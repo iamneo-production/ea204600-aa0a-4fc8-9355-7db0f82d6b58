@@ -9,7 +9,7 @@ This repository is for the project for the Academic Grand Challenge on Climate C
 - [Prototype](#prototype)
     - [AQI Prediction](#aqi-prediction)
     - [Heatwave Prediction](#heatwave-prediction)
-    - [Mobile Application](#web-application)
+    - [Mobile Application](#mobile-application)
 - [Flow Diagram](#flow-diagram)
 - [Submissions](#submissions)
 - [Authors](#authors)
@@ -27,6 +27,11 @@ This repository is for the project for the Academic Grand Challenge on Climate C
   combination of the input variables. With this, we plan to estimate the AQI, temperature and other parameters.
   - Classification: with the AQI, temperature and the other parameters predicted, we create a classifier to categorize whether given a set of weather parameters, contribute a heatwave or not. This model also takes into consideration, a parameter tolerance (), which can be set/used by the users/governing bodies to set the threshold, for determining if the weather parameters is a heatwave or not.
 
-## Components
+## Prototype
+ - It is divided into three modules
+
+   - AQI Prediction
+   - Heatwave Prediction
+   - Mobile Application
 
 https://sonarcloud.io/summary/overall?id=examly-test_ea204600-aa0a-4fc8-9355-7db0f82d6b58
