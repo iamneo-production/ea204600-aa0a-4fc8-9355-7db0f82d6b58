@@ -40,6 +40,8 @@ This repository is for the project for the Academic Grand Challenge on Climate C
 
 ## AI Based Predictor
  - We use an auto-regressive Image-to-Image model to generate heatmaps for future predictions.
+![Model Architecutre](./Images/pix2pixRNN.png)
+
 ## Application
  - This section is under Work in Progress
 ## Submissions
